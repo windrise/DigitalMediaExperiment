@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 -------------------------------------------------
-   File Name：     DataPic
+   File Name：     Gendata
    Description :
    Author :       付学明
    date：          2018/5/18
